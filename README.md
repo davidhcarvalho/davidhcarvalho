@@ -2,9 +2,25 @@
 
 ###
 
-<p>I'm a Computer Science student at FUMEC University, where I placed 1st in the university entrance exam (ENEM) after a year of self-study. I'm passionate about technology and have been a self-taught learner since an early age, starting with JavaScript and CSS. I now specialize in full-stack development, with an emphasis on Node.js, Typescript, and React.</p><br>
+<p>I'm a Computer Science student at FUMEC University, where I placed 1st in the university entrance exam (ENEM) after a year of self-study. I'm passionate about technology and have been a self-taught learner since an early age, starting with JavaScript and CSS. I now specialize in full-stack development, with an emphasis on Node.js, Typescript, and React.</p>
 <h3>Professional Background</h3>
 <p>My professional background as a Mid-Level Technical Support Analyst has given me valuable experience in issue resolution, database analysis, and direct work with systems and servers. I'm skilled in querying and analyzing databases (Navicat and MongoDB Compass) and managing systems via command lines (Termius).</p>
+<details>
+  <summary><h3>Find Me:</h3></summary>
+<br clear="both">
+
+<div align="center">
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/davidhcarvalho" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+  </a></p>
+  <p>Behance: <a href="https://www.behance.net/davidhenrique12" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="behance logo"  />
+  </a></p>
+  <p>Email: <a href="mailto:davidhenriq97@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+  </a></p>
+</div>
+</details>
 
 ###
 
@@ -15,21 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react logo"  />
-</div>
-<br>
-<h3>Find Me</h3>
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/davidhcarvalho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/davidhenrique12" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="behance logo"  />
-  </a>
-  <a href="mailto:davidhenriq97@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
@@ -43,7 +44,7 @@
 </details>
 
 ###
-
+<p>I also like games :)</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidhcarvalho/davidhcarvalho/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidhcarvalho/davidhcarvalho/output/pacman-contribution-graph.svg">
