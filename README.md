@@ -29,8 +29,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=davidhcarvalho&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=25&order=3" height="300" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=davidhcarvalho&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=davidhcarvalho&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=25&order=3" height="180em" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=davidhcarvalho&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="180em" alt="stats graph"  />
 </div>
 
 ###
