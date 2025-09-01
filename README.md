@@ -1,15 +1,9 @@
-<h1 align="center">Welcome to my profile!</h1>
+<h1 align="center">Full-Stack Web Developer</h1>
 
 ###
 
-<h2>I'm David Carvalho, a Full-Stack Web Developer.</h2><br>
-
+<h2>About Me</h2>
 <p>I'm a Computer Science student at FUMEC University, where I placed 1st in the university entrance exam (ENEM) after a year of self-study. I'm passionate about technology and have been a self-taught learner since an early age, starting with JavaScript and CSS. I now specialize in full-stack development, with an emphasis on Node.js, Typescript, and React.</p>
-
-###
-
-<h2>Professional Background</h2>
-<p>My professional background as a Mid-Level Technical Support Analyst has given me valuable experience in issue resolution, database analysis, and direct work with systems and servers. I'm skilled in querying and analyzing databases (Navicat and MongoDB Compass) and managing systems via command lines (Termius).</p>
 
 ###
 
@@ -21,9 +15,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react logo"  />
 </div>
-
-###
-
+<br>
+<h3>Find Me</h3>
 <br clear="both">
 
 <div align="center">
@@ -40,6 +33,7 @@
 
 ###
 
+<h3>Stats</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=davidhcarvalho&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=25&order=3" height="180em" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=davidhcarvalho&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="180em" alt="stats graph"  />
@@ -47,10 +41,11 @@
 
 ###
 
-<h2>Find Me</h2>
-<p>- LinkedIn: linkedin.com/in/davidhcarvalho/ <br>
-- Gmail: davidhenriq97@gmail.com
-</p>
+<details>
+<summary><h3>Professional Background</h3></summary>
+<p>My professional background as a Mid-Level Technical Support Analyst has given me valuable experience in issue resolution, database analysis, and direct work with systems and servers. I'm skilled in querying and analyzing databases (Navicat and MongoDB Compass) and managing systems via command lines (Termius).</p>
+  
+</details>
 
 ###
 
