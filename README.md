@@ -13,6 +13,7 @@
   <a href="https://www.behance.net/davidhenrique12" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="behance logo"  />
   </a>
+<br>
   <a href="mailto:davidhenriq97@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
