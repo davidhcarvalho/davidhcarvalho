@@ -42,8 +42,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=davidhcarvalho&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="180em" alt="stats graph"  />
 </div>
 
-###
-
 ---
 
 <p>I also like games :)</p>
@@ -52,6 +50,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidhcarvalho/davidhcarvalho/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/davidhcarvalho/davidhcarvalho/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
 <br>
 <div align="center">
   <p>Thanks for your visiting!<br><img src="https://komarev.com/ghpvc/?username=davidhcarvalho&label=Views&color=863cd7&style=flat" alt="davidhcarvalho"/></p>
