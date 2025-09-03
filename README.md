@@ -38,16 +38,13 @@
 
 ###
 
-[GitHub Streak](https://streak-stats.demolab.com?user=davidhcarvalho&theme=midnight-purple&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&stroke=CABF24)](https://git.io/streak-stats)
-
 <h2>Stats</h2>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=davidhcarvalho&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=25&order=3" height="180em" alt="streak graph" />
-<br>
 <img src="https://github-readme-stats.vercel.app/api?username=davidhcarvalho&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="180em" alt="stats graph"  />
 </div>
 <br>
-<p align="left">Thanks for your visiting!<span><img src="https://komarev.com/ghpvc/?username=davidhcarvalho&label=Views&color=9809e6&style=flat" alt="davidhcarvalho"/></p>
+<pre align="left">Thanks for your visiting!  <img src="https://komarev.com/ghpvc/?username=davidhcarvalho&label=Views&color=9809e6&style=flat" alt="davidhcarvalho"/></pre>
 
 ###
 
