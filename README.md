@@ -53,7 +53,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/davidhcarvalho/davidhcarvalho/output/pacman-contribution-graph.svg">
 </picture>
 <br>
-<div align='center'>
+<div align="center">
   <p align="left">Thanks for your visiting!<br><img src="https://komarev.com/ghpvc/?username=davidhcarvalho&label=Views&color=863cd7&style=flat" alt="davidhcarvalho"/></p>
 </div>
+
 ###
