@@ -38,15 +38,11 @@
 
 ###
 
-<details>
-<summary><h2>Stats</h2></summary>
+<h2>Stats</h2>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=davidhcarvalho&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=25&order=3" height="180em" alt="streak graph" />
 <img src="https://github-readme-stats.vercel.app/api?username=davidhcarvalho&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="180em" alt="stats graph"  />
 </div>
-</details>
-<br>
-<p align="left">Thanks for your visiting!&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=davidhcarvalho&label=Views&color=863cd7&style=flat" alt="davidhcarvalho"/></p>
 
 ###
 
@@ -56,5 +52,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidhcarvalho/davidhcarvalho/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/davidhcarvalho/davidhcarvalho/output/pacman-contribution-graph.svg">
 </picture>
-
+<br>
+<div align='center'>
+  <p align="left">Thanks for your visiting!<br><img src="https://komarev.com/ghpvc/?username=davidhcarvalho&label=Views&color=863cd7&style=flat" alt="davidhcarvalho"/></p>
+</div>
 ###
