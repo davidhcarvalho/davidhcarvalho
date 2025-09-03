@@ -42,6 +42,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=davidhcarvalho&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="180em" alt="stats graph"  />
 </div>
 
+<br>
+
 ---
 
 <p>I also like games :)</p>
