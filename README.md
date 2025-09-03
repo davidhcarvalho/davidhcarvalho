@@ -8,13 +8,13 @@
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/davidhcarvalho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=863cd7&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
   <a href="https://www.behance.net/davidhenrique12" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="behance logo"  />
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=863cd7&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="behance logo"  />
   </a>
   <a href="mailto:davidhenriq97@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=863cd7&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
 </div>
 
@@ -46,7 +46,7 @@
 </div>
 </details>
 <br>
-<p align="left">Thanks for your visiting!&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=davidhcarvalho&label=Views&color=9809e6&style=flat" alt="davidhcarvalho"/></p>
+<p align="left">Thanks for your visiting!&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=davidhcarvalho&label=Views&color=863cd7&style=flat" alt="davidhcarvalho"/></p>
 
 ###
 
