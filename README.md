@@ -46,7 +46,7 @@
 </div>
 </details>
 <br>
-<p align="left">Thanks for your visiting!<pre>  </pre><img src="https://komarev.com/ghpvc/?username=davidhcarvalho&label=Views&color=9809e6&style=flat" alt="davidhcarvalho"/></p>
+<p align="left">Thanks for your visiting!&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=davidhcarvalho&label=Views&color=9809e6&style=flat" alt="davidhcarvalho"/></p>
 
 ###
 
