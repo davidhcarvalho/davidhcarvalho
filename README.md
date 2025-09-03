@@ -54,7 +54,7 @@
 </picture>
 <br>
 <div align="center">
-  <p align="left">Thanks for your visiting!<br><img src="https://komarev.com/ghpvc/?username=davidhcarvalho&label=Views&color=863cd7&style=flat" alt="davidhcarvalho"/></p>
+  <p>Thanks for your visiting!<br><img src="https://komarev.com/ghpvc/?username=davidhcarvalho&label=Views&color=863cd7&style=flat" alt="davidhcarvalho"/></p>
 </div>
 
 ###
