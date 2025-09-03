@@ -36,15 +36,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react logo"  />
 </div>
 
-###
-
-<h2>Stats</h2>
+<h3>Stats</h3>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=davidhcarvalho&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=25&order=3" height="180em" alt="streak graph" />
 <img src="https://github-readme-stats.vercel.app/api?username=davidhcarvalho&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="180em" alt="stats graph"  />
 </div>
 
 ###
+
+---
 
 <p>I also like games :)</p>
 <picture>
