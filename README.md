@@ -28,22 +28,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original-wordmark.svg" height="60" alt="angular logo"  />
 </div>
 
-<h3>Stats</h3>
+<!--<h3>Stats</h3>
 <div align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=davidhcarvalho&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="180em" alt="streak graph" />
 <img src="https://github-readme-stats.vercel.app/api?username=davidhcarvalho&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="180em" alt="stats graph"  />
 </div>
-
 <br>
-
 ---
-
 <p>I also like games :)</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidhcarvalho/davidhcarvalho/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidhcarvalho/davidhcarvalho/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/davidhcarvalho/davidhcarvalho/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ---
 
